@@ -1,0 +1,8 @@
+Name:
+Hamster;
+Subpages:
+1.3.1_Syrian:
+1.3.2_Dwarf:
+1.3.3_Roborovski;
+Text:
+1.3.0_Hamster_Text;

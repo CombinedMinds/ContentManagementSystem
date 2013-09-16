@@ -1,0 +1,4 @@
+<html>
+<b>This text should be bold</b><br>
+<font size="4" color="#31DDAC">This is some text!</font>
+</html>

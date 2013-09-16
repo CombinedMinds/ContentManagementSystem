@@ -1,0 +1,9 @@
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <b>This text should be bold</b><br><font size="4" color="#31DDAC">This is 
+    so edbgzsihgoiudvxhpg 7:54pm &lt;/font&gt;</font>
+  </body>
+</html>
